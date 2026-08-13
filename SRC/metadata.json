@@ -1,0 +1,6 @@
+{
+  "name": "Zenrixa Hero Section",
+  "description": "Minimalist dark hero section for Zenrixa creative agency featuring DM Sans typography and interactive UI components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

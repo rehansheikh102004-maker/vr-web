@@ -1,0 +1,6 @@
+{
+  "name": "Forma AI Pricing",
+  "description": "Transparent glassmorphism pricing UI for Forma AI with custom plan comparison, interval toggling, and clean dark canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

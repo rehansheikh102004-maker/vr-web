@@ -1,0 +1,6 @@
+{
+  "name": "Black Banner Studio",
+  "description": "Minimalist plain black banner with DM Sans typography, customizable central 3D visual, and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

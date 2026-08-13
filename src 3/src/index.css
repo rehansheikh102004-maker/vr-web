@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    font-family: 'DM Sans', sans-serif !important;
+  }
+
+  body {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    font-family: 'DM Sans', sans-serif !important;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom scrollbar for pure black theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #222222;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #444444;
+}

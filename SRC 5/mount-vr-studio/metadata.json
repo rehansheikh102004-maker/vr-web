@@ -1,0 +1,6 @@
+{
+  "name": "Mount VR Studio",
+  "description": "Next-generation Virtual Reality, WebXR & Spatial Computing development platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
